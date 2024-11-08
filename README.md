@@ -35,3 +35,4 @@ Give credit here
 
 This project was inspired by https://www.youtube.com/watch?v=bmZqjZZyoRc&t=914s
 
+This project was inspired by https://arcade.makecode.com/docs
