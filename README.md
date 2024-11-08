@@ -29,7 +29,7 @@ Room for Improvement:
 
 3. Map expansion
 
-Ackonwledgements
+Ackonwledgements:
 
 Give credit here
 
